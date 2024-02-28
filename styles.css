@@ -32,3 +32,15 @@ button {
  max-width: 200px;
  margin: 10px;
 }
+#faq {
+ margin: 20px;
+ padding: 10px;
+ background-color: #f4f4f4;
+}
+.question h3 {
+ color: #333;
+}
+.question p {
+ font-size: 16px;
+ color: #666;
+}
