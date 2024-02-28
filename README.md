@@ -18,3 +18,5 @@ Pour contribuer à ce projet, veuillez suivre les instructions suivantes :
 Merci pour votre contribution à ce projet éducatif !
 NB : Pour plus d’information sur le formatage veuillez 
 consulter https://docs.github.com/fr/get-started/writing-on-github/getting-started-withwriting-and-formatting-on-github/basic-writing-and-formatting-syntax
+##Esquisse d'insertion d'image
+[epo](OIP.jpg)
